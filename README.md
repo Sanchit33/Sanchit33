@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanchitshinde16" target="blank"><img src="https://img.shields.io/twitter/follow/sanchitshinde16?logo=twitter&style=for-the-badge" alt="sanchitshinde16" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Travel Website for Booking Tours**
 
 - 🌱 I’m currently learning **Devops CI/CD and Reactjs**
 
