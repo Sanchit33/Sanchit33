@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/@sanchit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@sanchit33" height="30" width="40" /></a>
 <a href="https://instagram.com/@sanchit_3320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sanchit_3320" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shindesanchit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shindesanchit33" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sanchitshinde33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sanchitshinde33" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shindesanchit33?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sanchitshinde33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
