@@ -23,6 +23,8 @@
 <a href="https://www.instagram.com/sanchit_3320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sanchit_3320" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Sanchit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shindesanchit33" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Sanchit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sanchitshinde33" height="30" width="40" /></a>
+<a href="https://codepen.io/sanchit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanchit33" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/sanchit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sanchit33" height="30" width="40" /></a>v
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
