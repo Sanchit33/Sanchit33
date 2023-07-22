@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit33" alt="sanchit33" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Website for Booking Tours**
-
-- 🌱 I’m currently learning **Devops CI/CD and Reactjs**
-
-- 💬 Ask me about **Python, C++, Javascript, SQL and C**
-
-- 📫 How to reach me **shindesanchit33@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanchitshinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanchitshinde16" height="30" width="40" /></a>
